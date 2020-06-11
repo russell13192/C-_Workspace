@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Bitmap.cpp.o CMakeFiles/main.dir/Mandelbrot.cpp.o CMakeFiles/main.dir/ZoomList.cpp.o CMakeFiles/main.dir/FractalCreator.cpp.o CMakeFiles/main.dir/RGB.cpp.o  -o main 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/russell/C++_Workspace/boost_fun/main.cpp
+boost/thread.hpp
+-
+boost/chrono.hpp
+-
+iostream
+-
+

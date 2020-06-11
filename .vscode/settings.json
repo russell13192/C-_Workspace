@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp",
+        "typeinfo": "cpp",
+        "ostream": "cpp",
+        "complex": "cpp"
+    },
+    "ros.distro": "kinetic",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

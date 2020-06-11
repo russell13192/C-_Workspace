@@ -1,0 +1,3 @@
+/home/russell/C++_Workspace/rvalue_references/CMakeFiles/edit_cache.dir
+/home/russell/C++_Workspace/rvalue_references/CMakeFiles/main.dir
+/home/russell/C++_Workspace/rvalue_references/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+g++ -o main main.cpp Complex.cpp
+g++ -o main main.cpp Complex.cpp -lpthread
